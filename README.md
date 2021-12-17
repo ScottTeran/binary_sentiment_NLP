@@ -1,4 +1,4 @@
-# Hackathon (Stock or Stonk)
+# Project Rewind: Hackathon (Stock or Stonk)
 For the Hackathon we're running this afternoon, I chose an NLP problem: train a model to determine binary sentiment of movie reviews from an IMDB dataset. 
 
 The IMDB dataset is from [Kaggle](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) and includes "25,000 highly polar movie reviews for training and 25,000 for testing." 
